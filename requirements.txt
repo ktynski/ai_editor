@@ -1,5 +1,5 @@
 streamlit
-difflib
+cdifflib
 diff_match_patch
 openai
 anthropic
